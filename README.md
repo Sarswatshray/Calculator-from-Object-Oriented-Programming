@@ -1,2 +1,3 @@
 # Calculator-from-Object-Oriented-Programming
 In this repository I have made a Calculator using Object Oriented Programming in Python.
+I am learning python now and I am a beginner in Python. I have made a Simple Calculator using Object Oriented Programming in Python. You can perform basic operations like add, subtract, multiply, divide, finding the remainder of two numbers, etc. You can download the code and edit it freely. But before uploading you have to ask me...
